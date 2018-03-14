@@ -18,8 +18,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "https, lock",
-        "id": 37,
-        "order": 14,
+        "id": 38,
+        "order": 38,
         "prevSize": 24,
         "name": "lock"
       },
@@ -46,8 +46,8 @@
         {}
       ],
       "properties": {
-        "order": 15,
-        "id": 17,
+        "order": 39,
+        "id": 39,
         "name": "link",
         "prevSize": 24
       },
@@ -72,8 +72,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "account_circle",
-        "id": 18,
-        "order": 16,
+        "id": 40,
+        "order": 40,
         "prevSize": 24,
         "name": "account_circle"
       },
@@ -98,8 +98,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "add_circle",
-        "id": 19,
-        "order": 17,
+        "id": 41,
+        "order": 41,
         "prevSize": 24,
         "name": "add_circle"
       },
@@ -124,8 +124,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "arrow_back",
-        "id": 20,
-        "order": 18,
+        "id": 42,
+        "order": 42,
         "prevSize": 24,
         "name": "arrow_back"
       },
@@ -150,8 +150,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "arrow_downward",
-        "id": 21,
-        "order": 35,
+        "id": 43,
+        "order": 43,
         "prevSize": 24,
         "name": "arrow_downward"
       },
@@ -176,8 +176,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "arrow_forward",
-        "id": 22,
-        "order": 26,
+        "id": 44,
+        "order": 44,
         "prevSize": 24,
         "name": "arrow_forward"
       },
@@ -202,8 +202,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "arrow_upward",
-        "id": 23,
-        "order": 27,
+        "id": 45,
+        "order": 61,
         "prevSize": 24,
         "name": "arrow_upward"
       },
@@ -228,8 +228,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "border_color",
-        "id": 24,
-        "order": 28,
+        "id": 46,
+        "order": 54,
         "prevSize": 24,
         "name": "border_color"
       },
@@ -254,8 +254,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "cancel",
-        "id": 25,
-        "order": 29,
+        "id": 47,
+        "order": 55,
         "prevSize": 24,
         "name": "cancel"
       },
@@ -280,8 +280,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "check",
-        "id": 26,
-        "order": 30,
+        "id": 48,
+        "order": 56,
         "prevSize": 24,
         "name": "check"
       },
@@ -306,8 +306,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "clear, close",
-        "id": 27,
-        "order": 31,
+        "id": 49,
+        "order": 57,
         "prevSize": 24,
         "name": "close"
       },
@@ -332,8 +332,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "create, edit, mode_edit",
-        "id": 28,
-        "order": 32,
+        "id": 50,
+        "order": 58,
         "prevSize": 24,
         "name": "mode_edit"
       },
@@ -358,8 +358,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "date_range",
-        "id": 29,
-        "order": 33,
+        "id": 51,
+        "order": 59,
         "prevSize": 24,
         "name": "date_range"
       },
@@ -384,8 +384,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "delete",
-        "id": 30,
-        "order": 34,
+        "id": 52,
+        "order": 60,
         "prevSize": 24,
         "name": "delete"
       },
@@ -410,8 +410,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "description",
-        "id": 31,
-        "order": 20,
+        "id": 53,
+        "order": 46,
         "prevSize": 24,
         "name": "description"
       },
@@ -436,8 +436,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "email, local_post_office, mail, markunread",
-        "id": 32,
-        "order": 21,
+        "id": 54,
+        "order": 47,
         "prevSize": 24,
         "name": "markunread"
       },
@@ -462,8 +462,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "refresh",
-        "id": 33,
-        "order": 22,
+        "id": 55,
+        "order": 48,
         "prevSize": 24,
         "name": "refresh"
       },
@@ -488,8 +488,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "remove_red_eye, visibility",
-        "id": 34,
-        "order": 23,
+        "id": 56,
+        "order": 49,
         "prevSize": 24,
         "name": "visibility"
       },
@@ -514,8 +514,8 @@
       "attrs": [],
       "properties": {
         "ligatures": "home",
-        "id": 35,
-        "order": 24,
+        "id": 57,
+        "order": 50,
         "prevSize": 24,
         "name": "home"
       },
@@ -540,14 +540,66 @@
       "attrs": [],
       "properties": {
         "ligatures": "view_comfy",
-        "id": 36,
-        "order": 25,
+        "id": 58,
+        "order": 51,
         "prevSize": 24,
         "name": "view_grid"
       },
       "setIdx": 0,
       "setId": 7,
       "iconIdx": 20
+    },
+    {
+      "icon": {
+        "paths": [
+          "M554 554v-256h-84v256h84zM554 726v-86h-84v86h84zM512 86c236 0 426 190 426 426s-190 426-426 426-426-190-426-426 190-426 426-426z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "error"
+        ],
+        "defaultCode": 57344,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "error",
+        "id": 59,
+        "order": 52,
+        "prevSize": 24,
+        "name": "error"
+      },
+      "setIdx": 0,
+      "setId": 7,
+      "iconIdx": 21
+    },
+    {
+      "icon": {
+        "paths": [
+          "M554 598v-172h-84v172h84zM554 768v-86h-84v86h84zM42 896l470-810 470 810h-940z"
+        ],
+        "attrs": [],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "tags": [
+          "warning"
+        ],
+        "defaultCode": 57346,
+        "grid": 24
+      },
+      "attrs": [],
+      "properties": {
+        "ligatures": "report_problem, warning",
+        "id": 60,
+        "order": 53,
+        "prevSize": 24,
+        "name": "warning"
+      },
+      "setIdx": 0,
+      "setId": 7,
+      "iconIdx": 22
     }
   ],
   "height": 1024,
